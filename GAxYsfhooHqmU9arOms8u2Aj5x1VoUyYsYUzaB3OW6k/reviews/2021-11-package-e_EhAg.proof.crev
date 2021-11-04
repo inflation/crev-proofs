@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-04T15:55:15.065954+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cmake
+  version: 0.1.45
+  revision: e4075041eb0ab4f54b49dde755072b5704ea1e49
+  digest: SoPZdb3g03qmbZSalJSxvS4M0CchiSxXlXnbhLNCJQE
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+7lpCFUCGYDB9MNJj2_1S1FlCaVTvcSBuVJB-aZfbkhBFbncWasRlA5NXIfCC1WfWb9VvpEfq6DRnIbEKgcNJCQ
+----- END CREV PROOF -----
+
