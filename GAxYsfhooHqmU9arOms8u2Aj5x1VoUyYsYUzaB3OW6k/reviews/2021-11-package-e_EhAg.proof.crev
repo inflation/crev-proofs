@@ -374,3 +374,25 @@ review:
 cDwAliQGxbcTXIWsWAyy9Tdz_oTSh9DuQUOAwJkghWkFGLNN8Ah6YGDZh0AwCDMkfJxnoXzCE3ICS-3nC5F3AQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T16:25:11.618411+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: color_quant
+  version: 1.1.0
+  revision: 6c302d2d1540496584476d513dd75b815f14e7a1
+  digest: dW1DGKoY3zcIKbGRRuwMv9O9sw62F1Vq7akEDqeQ4rI
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+----- SIGN CREV PROOF -----
+VxZdLSkw-7FqOK29kWeoPGKrtruOG1Acl8PKqrilvovwzd93bLhIxOiuFXIAvt1gBjpwtJ8la6-wxM34CEKvDw
+----- END CREV PROOF -----
+
