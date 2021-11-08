@@ -746,3 +746,27 @@ comment: |-
 eWVWX6Js6LqFo0Lits7SyOH_3U6-YwAKHwc_Hk5RKPsW8J2bgIy0wp22IN0Ne9cIa5jMM1C7Ww8e2oI1KklyCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T18:27:32.902421+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: image
+  version: 0.23.14
+  revision: 2a79d33e663d27e402c76bfc6aa5ca78b1cc9895
+  digest: VhY3EN4mIa453Dr_UaymBx_r_YY9Z74Hm1If1Ant1RY
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+comment: |-
+  Used by almost everyone
+----- SIGN CREV PROOF -----
+sJOeVpcE36wGmf8UlWaMkfXFsCITBmiHOC2lFFRCfjc4giE6i6mkbd998Mrr3u6W4fO4aPsW7tK4pwbzSJ7qAA
+----- END CREV PROOF -----
+
