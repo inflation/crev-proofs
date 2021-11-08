@@ -162,3 +162,25 @@ review:
 u6qpf-kBw70WnzRv_Jh6FPbkAHUgRryY-lmYZjD4_iJO7mM66-nQHTGJ6wuTBDXslZq4MWoH0REsB611FjkDCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T14:40:40.005120+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.2.1
+  revision: 30668016aca6bd3b02c766e8347e0b4080d4c296
+  digest: hBS4g5BS-KTQA2baui1uKXks2SuPnFM1dqdCnmPLxNI
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+ZjayM4BuEgW0qInO_iiihRg6ZNQbtouwOThj4tKKYcrf8SjSatAbwLDs4Xs5-ow4eDtxOWzdaWBDfybG7GZLBA
+----- END CREV PROOF -----
+
