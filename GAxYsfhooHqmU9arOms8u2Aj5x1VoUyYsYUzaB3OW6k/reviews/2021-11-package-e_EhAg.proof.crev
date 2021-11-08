@@ -578,3 +578,27 @@ comment: |-
 OqMUg-rU3ExWhnK8LpMLbRxtBgmjA0RcNh_x2C2_W7HceFF1REnOAbiqxnxc5coRY-2PKamhUWTm2k95ZoozAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T18:21:14.130422+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num-integer
+  version: 0.1.44
+  revision: 4d166cbb754244760e28ea4ce826d54fafd3e629
+  digest: 1QoE7kSfJYAesNf_VWya1B4LdeYcN1RG5ahgcWpw-dY
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+comment: |-
+  Used by `num-iter`
+----- SIGN CREV PROOF -----
+RHRY9GK_-2wbh4FGC518-cdm_SwfUDgaqCXdcaWCvZhjWci89Aw__M6Q8pZ1Ynv5v-ViHxgxkwyOqxhQzMLWBg
+----- END CREV PROOF -----
+
