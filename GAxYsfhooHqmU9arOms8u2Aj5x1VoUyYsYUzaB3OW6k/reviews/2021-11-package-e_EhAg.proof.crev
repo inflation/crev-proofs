@@ -698,3 +698,27 @@ comment: |-
 AqzJy9PQME4Ab9iix1yiDiBtOLi-WAxe8niU5XkATEbW2LuPq-b7gklR8hCuXezV46eF9rmqtm-6qO9Iu4xnBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T18:26:08.703534+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: miniz_oxide
+  version: 0.3.7
+  revision: 5639cf6029b5021eaa78ceff23009f79fb5f5865
+  digest: aP3VrPRcxCz_qttpsReyUmgmyDlSI8Ir4_d-gB49VYQ
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+comment: |-
+  Used by `png` 
+----- SIGN CREV PROOF -----
+ZILzxGeoQBqNGqQsg-aNRUhY5ZQCiFBaIkIieJXpqCikuXQngf6X_tL1ZkyWPJ1snVnU3X7Q2Zo25YM6-iwkAw
+----- END CREV PROOF -----
+
