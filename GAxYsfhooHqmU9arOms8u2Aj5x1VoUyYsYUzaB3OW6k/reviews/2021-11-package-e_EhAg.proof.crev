@@ -554,3 +554,27 @@ review:
 cHRmmVlmdthdYtuzxf-I5zYev1UVeZgbtqj5vsJmScBtKabrl6XbJYOTG2fJYOwpTnzeEXOQMBCp_pUTttyNBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T17:34:43.360801+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crc32fast
+  version: 1.2.1
+  revision: c6a423b4da80da8e80f757f94d2e718187302e40
+  digest: XDV7XGgLejxqeAXe_WqQNUDvNENDAVgCFDDMR6FM5Ug
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Used by `png`
+----- SIGN CREV PROOF -----
+OqMUg-rU3ExWhnK8LpMLbRxtBgmjA0RcNh_x2C2_W7HceFF1REnOAbiqxnxc5coRY-2PKamhUWTm2k95ZoozAA
+----- END CREV PROOF -----
+
