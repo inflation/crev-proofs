@@ -442,3 +442,27 @@ comment: |-
 0SDK4Lt6HFwmA-p2A9KUZncyVln1fsYVEK43D5HrbcqJG1ADnKbvrvVzIH2akhnctP5cV8DhrD1aG8aghyo4Dw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T16:29:43.078449+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: hermit-abi
+  version: 0.1.15
+  revision: ed9fe8f90f4117ac75e3ce4ca89cd71fb5374ac4
+  digest: lg5hLsidDFA9Hz8Ne5uxlJr9UEwpwV74uMSlVRyWhws
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+comment: |-
+  Used by `num_cpus`  
+----- SIGN CREV PROOF -----
+8Uy40VqI_BBMNV9g2vieKTZ4Wh7F5IXyDPDScNAOOwfIKAtDrJj-FWcNPjG3WG6Q6X4y4ktAGSYvSrSK9GAdAw
+----- END CREV PROOF -----
+
