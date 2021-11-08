@@ -68,3 +68,27 @@ comment: |-
 Yf2VlFN2NxrIkJyYwVdVNeApu6Q52gN0tLt5fUPuQ8hMPPjAOBELC10R9UrP_Z9yXzn8agVXyRbCs9-jv3T9AA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T14:34:08.617352+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cfg-if
+  version: 1.0.0
+  revision: e60fa1efeab0ec6e90c50d93ec526e1410459c23
+  digest: YmRVto2mw7U7GJhrOe13k_5Sgg9TcQWK1NuLN2Qiz5E
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate is used by rustc itself 
+----- SIGN CREV PROOF -----
+6-HgY4Zx-2Nn3arhl09zJVUZSj3ITxJ6R2ZLvO1jSyQxmmfQSdR-hUHCjhuH2u1fXu8KExPEjO5Xp3IYeJW2Dg
+----- END CREV PROOF -----
+
