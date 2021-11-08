@@ -466,3 +466,25 @@ comment: |-
 8Uy40VqI_BBMNV9g2vieKTZ4Wh7F5IXyDPDScNAOOwfIKAtDrJj-FWcNPjG3WG6Q6X4y4ktAGSYvSrSK9GAdAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T16:39:58.941899+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: autocfg
+  version: 1.0.1
+  revision: d2c60343b63239dd514622df39172f90463db886
+  digest: xjqp54rYnhV69TRCpBgSci8cIertUXvs_SLH15TDdVc
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+pMzMk90zVURd_-dF-3pXHBq1yF-l4fGgclbtMWFr--a6i-Aui4YO1NxmTJHIFR3Plg113L48qlO3mxCDaMs1AQ
+----- END CREV PROOF -----
+
