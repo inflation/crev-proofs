@@ -184,3 +184,27 @@ review:
 ZjayM4BuEgW0qInO_iiihRg6ZNQbtouwOThj4tKKYcrf8SjSatAbwLDs4Xs5-ow4eDtxOWzdaWBDfybG7GZLBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T14:41:49.242113+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: jpegxl-sys
+  version: 0.6.1
+  revision: 58c5d18dcfaf857543d20e39254acb2e57787793
+  digest: 5Hc8QmnsEpXRYklYXmievMI8LuxjsK91dm3VhNRmmxw
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I'm the author of the crate
+----- SIGN CREV PROOF -----
+ern0_j9AJoWwgJM5-ZPffHHYsuEpslwxQ9D_u1mgN_HATApPaTgzwLa7T3E2HVEBkB_z0FHN_W7D15hszuA4DQ
+----- END CREV PROOF -----
+
