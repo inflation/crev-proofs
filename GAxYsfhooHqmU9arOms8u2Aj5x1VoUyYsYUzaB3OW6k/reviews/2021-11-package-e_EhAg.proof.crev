@@ -722,3 +722,27 @@ comment: |-
 ZILzxGeoQBqNGqQsg-aNRUhY5ZQCiFBaIkIieJXpqCikuXQngf6X_tL1ZkyWPJ1snVnU3X7Q2Zo25YM6-iwkAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-08T18:27:01.789686+08:00"
+from:
+  id-type: crev
+  id: GAxYsfhooHqmU9arOms8u2Aj5x1VoUyYsYUzaB3OW6k
+  url: "https://github.com/inflation/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: deflate
+  version: 0.8.6
+  revision: b8ba3f6c272d19260a27f0d110d50d125fd34029
+  digest: 2xQdyTH8_lJtU6vct4LpqZl8flTyPtMTagqAzVJcSLE
+review:
+  thoroughness: none
+  understanding: low
+  rating: neutral
+comment: |-
+  Used by `png`
+----- SIGN CREV PROOF -----
+eWVWX6Js6LqFo0Lits7SyOH_3U6-YwAKHwc_Hk5RKPsW8J2bgIy0wp22IN0Ne9cIa5jMM1C7Ww8e2oI1KklyCg
+----- END CREV PROOF -----
+
